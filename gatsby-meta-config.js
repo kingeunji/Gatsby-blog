@@ -1,5 +1,5 @@
 module.exports = {
-  title: `kingeunji.devlog`,
+  title: `Devlog`,
   description: `개발 블로그`,
   author: `kingeunji`,
   introduction: `안녕하세요, 프론트엔드 개발자입니다. 친하게 지내요! `,
@@ -21,7 +21,7 @@ module.exports = {
     countOfInitialPost: 10, // Config your initial count of post
   },
   sponsor: {
-    buyMeACoffeeId: 'jbee',
+    buyMeACoffeeId: '',
   },
   share: {
     facebookAppId: '', // Add facebookAppId for using facebook share feature v3.2
